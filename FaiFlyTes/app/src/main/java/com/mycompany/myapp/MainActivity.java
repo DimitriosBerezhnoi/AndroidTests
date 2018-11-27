@@ -15,7 +15,7 @@ public class MainActivity extends Activity implements OnClickListener
 	TextView tv;
 	EditText et;
 	Button btn;
-	CheckBox ch, ch2, ch3;
+	CheckBox ch, ch2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
